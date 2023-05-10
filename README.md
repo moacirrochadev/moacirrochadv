@@ -14,8 +14,7 @@
  
  <br>
  
-  ### Estudo a alguns meses e estou buscando colocação no mercado para poder desenvolver minhas habilidades e tudo o que
-  estou estudando na área de desenvolvimento web front-end, no momento!
+  ### Estudo a alguns meses e estou buscando colocação no mercado para poder desenvolver minhas habilidades e tudo o que estou estudando na área de desenvolvimento web front-end, no momento!
  
 <div> 
 
